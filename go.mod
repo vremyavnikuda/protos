@@ -1,4 +1,4 @@
-module protos
+module github.com/vremyavnikuda/protos
 
 go 1.22
 
